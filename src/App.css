@@ -1,0 +1,13 @@
+.searchBar{
+  padding-top: 40px;
+  margin-right: 150px;
+}
+h5{
+  font-weight:bold;
+}
+.position{
+  display: flex;
+  justify-content: end;
+  padding-top: 30px;
+  padding-left: 100px;
+}
